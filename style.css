@@ -1,0 +1,25 @@
+
+body {
+    background: lightgray;
+}
+
+#education, #education th, #education td {
+    border: 1px solid grey;
+    border-collapse: collapse;
+    text-align: center; 
+    padding: 15px;
+}
+
+.a4 {
+    width: 70%;
+    margin: auto;
+    background: white;
+    padding: 50px;
+    border: 1px solid grey;
+}
+
+
+
+/*img {*/
+/*    border: 1px solid lightgray;*/
+/*}*/
